@@ -1,0 +1,22 @@
+.fact-card {
+    background-color: lightgreen;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-size: 16px;
+    color: blue;
+  }
+  
+  .error-message {
+    background-color: lightcoral;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .get-fact-button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
